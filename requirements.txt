@@ -1,0 +1,16 @@
+streamlit>=1.50
+anthropic>=2.0
+httpx>=0.27
+langgraph>=0.2
+pydantic>=2.6
+PyMuPDF>=1.24
+opencv-python-headless>=4.9
+Pillow>=10.1
+reportlab>=4.1
+python-dotenv>=1.0
+plotly>=5.20
+pandas>=2.1
+pytest>=8.0
+# Optional, only for the matching provider:
+#   boto3            Amazon Bedrock with AWS profiles, SSO or IAM roles
+#   azure-identity   Microsoft Foundry with Microsoft Entra ID sign-in
